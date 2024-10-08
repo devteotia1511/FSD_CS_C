@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#reg-form{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#reg-area{
+    border-collapse: collapse;
+    border: 2px solid brown;
+    margin-top: 50px;
+    padding: 5px;
+    background-color: aliceblue;
+}
+
+#heading{
+    background-color: aqua;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 4px;
+    margin: 3px;
+    text-align: center;
+    border: 2px solid brown;
+}
